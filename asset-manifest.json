@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.6f07c0ed.chunk.css",
+    "main.js": "/portfolio-react/static/js/main.9b5a6700.chunk.js",
+    "main.js.map": "/portfolio-react/static/js/main.9b5a6700.chunk.js.map",
+    "runtime-main.js": "/portfolio-react/static/js/runtime-main.50b62b25.js",
+    "runtime-main.js.map": "/portfolio-react/static/js/runtime-main.50b62b25.js.map",
+    "static/js/2.13a3cd3a.chunk.js": "/portfolio-react/static/js/2.13a3cd3a.chunk.js",
+    "static/js/2.13a3cd3a.chunk.js.map": "/portfolio-react/static/js/2.13a3cd3a.chunk.js.map",
+    "static/js/3.8d1d9c36.chunk.js": "/portfolio-react/static/js/3.8d1d9c36.chunk.js",
+    "static/js/3.8d1d9c36.chunk.js.map": "/portfolio-react/static/js/3.8d1d9c36.chunk.js.map",
+    "index.html": "/portfolio-react/index.html",
+    "static/css/main.6f07c0ed.chunk.css.map": "/portfolio-react/static/css/main.6f07c0ed.chunk.css.map",
+    "static/js/2.13a3cd3a.chunk.js.LICENSE.txt": "/portfolio-react/static/js/2.13a3cd3a.chunk.js.LICENSE.txt",
+    "static/media/BudgetTracking.jpg": "/portfolio-react/static/media/BudgetTracking.5d495210.jpg",
+    "static/media/CovidRiskTracker.jpg": "/portfolio-react/static/media/CovidRiskTracker.d136efc0.jpg",
+    "static/media/NoteTaker.jpg": "/portfolio-react/static/media/NoteTaker.3579a0f1.jpg",
+    "static/media/ThisThat.jpg": "/portfolio-react/static/media/ThisThat.6f96ccaa.jpg",
+    "static/media/background.jpg": "/portfolio-react/static/media/background.dcff6a39.jpg",
+    "static/media/header-background.jpg": "/portfolio-react/static/media/header-background.01aac307.jpg",
+    "static/media/list-background.jpg": "/portfolio-react/static/media/list-background.566eb5b6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50b62b25.js",
+    "static/js/2.13a3cd3a.chunk.js",
+    "static/css/main.6f07c0ed.chunk.css",
+    "static/js/main.9b5a6700.chunk.js"
+  ]
+}
