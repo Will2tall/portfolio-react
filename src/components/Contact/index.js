@@ -30,6 +30,7 @@ function ContactForm() {
 
     function submit(e) {
         e.preventDefault();
+        return formState;
     }
 
     return (
