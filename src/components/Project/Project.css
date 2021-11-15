@@ -36,3 +36,9 @@
     flex-wrap: wrap;
     margin-left: 20%;
 }
+
+.link-text {
+    text-decoration: none;
+    color: black;
+    font-family: 'Yuji Syuku', serif;
+}
