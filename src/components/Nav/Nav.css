@@ -1,0 +1,25 @@
+.text {
+    font-family: 'Yuji Boku', serif;
+}
+
+a {
+    color: purple;
+}
+
+ul {
+    list-style: none;
+}
+
+.list {
+    display: inline-block;
+    position: fixed;
+    z-index: 50;
+    height: 100%;
+    background-image: url('../../assets/list-background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+li {
+    padding: 8px;
+}

@@ -1,0 +1,14 @@
+h1 {
+    font-size: 46px;
+    text-align: center;
+    margin-bottom: 4rem;
+    margin-top: 0;
+    height: 100px;
+}
+
+.header-background {
+    background-image: url('../../assets/header-background.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

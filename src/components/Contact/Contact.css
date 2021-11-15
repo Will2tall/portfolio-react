@@ -1,0 +1,24 @@
+.form-box {
+    display: flex;
+    margin-left: 25%;
+    justify-content: flex-end;
+    width: fit-content;
+    flex-wrap: wrap;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    margin-bottom: 4rem;
+}
+
+input textarea {
+    border-radius: 4px;
+}
+
+button {
+    background-image: linear-gradient(to right, purple, black);
+    border-radius: 4px;
+    color: aliceblue;
+}
