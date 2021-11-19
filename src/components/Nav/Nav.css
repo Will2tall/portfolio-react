@@ -1,6 +1,8 @@
 .text {
     font-family: 'Yuji Boku', serif;
-    color: rgb(235, 12, 12);
+    color: rgb(255, 0, 0);
+    text-decoration: none;
+    font-weight: bold;
 }
 
 ul {
@@ -11,13 +13,19 @@ ul {
     display: inline-block;
     position: fixed;
     z-index: 50;
-    height: 100vh;
+    height: 100%;
     background-image: url('../../assets/list-background.jpg');
     background-size: cover;
     background-repeat: no-repeat;
+    width: 160px;
 }
 
 li {
     padding: 8px;
     color: rgb(235, 12, 12);
+}
+
+.activate {
+    font-size: 24px;
+    text-decoration: underline;
 }

@@ -4,6 +4,7 @@
     justify-content: flex-end;
     width: fit-content;
     flex-wrap: wrap;
+    margin-top: 8rem;
 }
 
 .form {

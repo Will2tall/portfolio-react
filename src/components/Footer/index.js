@@ -1,16 +1,32 @@
 import React from "react";
-import './Footer.css'
+import "./Footer.css";
 
 function Footer() {
-    return (
-        <div className="footer">
-             <h5 className="foot-text">
-               Github Profile: <a href="https://github.com/Will2tall" target="_blank" rel="noreferrer">Will2tall</a>
-                  Email: will2tall89@gmail.com
-               Phone: (816)363-9011
-            </h5>
+  return (
+    <div className="footer">
+      <h5 className="foot-text">
+        <div>
+          <p>
+            Github Profile:{" "}
+            <a
+              href="https://github.com/Will2tall"
+              target="_blank"
+              rel="noreferrer"
+              className="githublink"
+            >
+              Will2tall
+            </a>
+          </p>
         </div>
-    )
+        <div>
+          <p>Email: will2tall89@gmail.com</p>
+        </div>
+        <div>
+          <p>Phone: (816)363-9011</p>
+        </div>
+      </h5>
+    </div>
+  );
 }
 
 export default Footer;

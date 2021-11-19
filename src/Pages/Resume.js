@@ -1,8 +1,9 @@
 import React from "react";
+import './css/resume.css';
 
 export default function Resume() {
     return (
-        <main>
+        <main className="resume">
         
         <h4>Professional Summary</h4>
         <p>
