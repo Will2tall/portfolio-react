@@ -30,6 +30,14 @@ function Project() {
             language: 'HTML, CSS, JavaScript, API(ticketmaster, covid risk tracker)',
             alt: 'Screenshot of covid risk tracker site',
             link: 'https://bpkaufman4.github.io/Group-2-project-1/'
+        },
+        {
+            name: 'Happy-Checkin',
+            description: 'Make hotel checkins more manageable!',
+            language: 'HTML, CSS, React, Node.js, GraphQL',
+            alt: 'Screenshot of Happy checkin site',
+            link: 'https://happy-checkin.herokuapp.com/'
+
         }
     ])
 
