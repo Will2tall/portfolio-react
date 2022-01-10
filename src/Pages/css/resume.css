@@ -1,7 +1,4 @@
-.resume {
-    overflow: visible;
-    position: fixed;
-    margin-left: 15%;
-    height: fit-content;
-    
+.haasImage {
+    margin-left: 30%;
+    padding-top: 2rem;
 }

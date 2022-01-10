@@ -4,10 +4,15 @@
 
 .main-background {
   background: url('./assets/background.jpg');
-  
+  display: flex;
+  flex-direction: column;
   background-position: center;
   background-size:cover;
   background-repeat: no-repeat;
   z-index: -10;
-  height: 100vh;
+  min-height: 100vh;
+}
+
+.page-header, .page-footer {
+  flex-shrink: 0;
 }

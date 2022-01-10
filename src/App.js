@@ -8,23 +8,23 @@ import Contact from './components/Contact';
 import Footer from './components/Footer';
 import Project from './components/Project';
 import Resume from './Pages/Resume';
-
+import Home from './components/Home';
 
 function App() {
   
   return (
     <div className="main-background">
     <Router>
-      <Header />
+      <Header className='page-header' />
       <Nav />
       <Switch>
+        <Route exact path="/" component={Home} />
         <Route exact path="/about" component={About} />
-        <Route exact path="/" component={About} />
         <Route exact path="/project" component={Project} />
         <Route exact path="/contact" component={Contact} />
-        <Route exact path="/resume" component={Resume} />
+        <Route exact path="/certificate" component={Resume} />
       </Switch>
-      <Footer />
+      <Footer className='page-footer' />
     </Router>
     </div>
   );
